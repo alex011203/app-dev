@@ -11,5 +11,5 @@ My first repository.
 - Stephanie Hsu as *Jobu Tupaki, Joy Wang*
 - James Hong as *Gong Gong*
 
-**Synopsis**
+> **Synopsis**
 > When an interdimensional rupture unravels reality, an unlikely hero must channel her newfound powers to fight bizarre and bewildering dangers from the multiverse as the fate of the world hangs in the balance.
